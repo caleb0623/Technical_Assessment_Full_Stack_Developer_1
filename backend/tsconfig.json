@@ -10,6 +10,8 @@
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "outDir": "./dist",
+    "baseUrl": "./",
+    "rootDir": "./",
   },
   "include": ["**/*", "./src/schema/*.d.ts"],
   "exclude": ["node_modules"]
